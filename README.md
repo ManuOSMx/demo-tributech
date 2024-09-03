@@ -11,6 +11,7 @@ Este repositorio contiene una demostración para mostrar cómo utilizar GitHub C
 ---
 
 ## Configuración de tu entorno
+---
 
 ## ¿Cómo puedo contribuir a un proyecto?
 ---
