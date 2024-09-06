@@ -22,10 +22,31 @@ Este repositorio fue creado para impulsar tu trabajo como programador/a. Aquí e
 
 ## Configuración de tu entorno [avanzado]
 
-- 
-- 
-- 
-- 
+### Configurar Codespaces | General
+1. Ir a Profile > Settings > Codespaces | [Enlace directo](https://github.com/settings/codespaces)
+2. Configurar completamente el entorno de Codespaces ( *IDE, idle timeout, security, region, etc.* )
+
+### Configurar Codespaces | Repositorio
+1. Abrir el repositorio en GitHub.
+2. Dar click en ***Settings***.
+3. Seleccionar Codespaces.
+4. Click en ***Set up prebuild***.
+5. Modificar los parámetros de codespaces para ese repositorio.
+
+### Crear un entorno Codespace
+
+#### Opción A - En un Repositorio:
+1. Abrir el repositorio en GitHub.
+2. Dar click en ***<> Code***.
+3. Seleccionar Codespaces.
+4. Click en Crear Codespaces en *Main*.
+
+#### Opción B - Desde cero:
+Dirígite a Menu > Codespaces | [Enlace directo](https://github.com/codespaces)
+
+#### Opción C - Desde un Template:
+Dirígite a Menu > Codespaces > Templates | [Enlace directo](https://github.com/codespaces/templates)
+
 
 ## ¿Cómo puedo contribuir a un proyecto?
 **_¿Te interesa compartir y contribuir en proyectos Open Source?_**
