@@ -89,7 +89,7 @@ Te recomendamos tomar cualquier retroalimentación, ya que te ayudará a mejorar
 ## Recursos
 
 1. [Documentación de Codespaces](https://docs.github.com/en/codespaces/overview#using-github-codespaces)
-2. []()
+2. [GitHub Codespaces](https://github.com/codespaces)
 
 ## Contribuidores
 
